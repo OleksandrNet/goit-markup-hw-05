@@ -549,25 +549,18 @@ footer .team-icons-link:focus {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
-  position: absolute;
   display: flex;
   align-items: center;
   font-weight: 500;
   line-height: 1.5;
   cursor: pointer;
   border: none;
-  margin-left: 24px;
   justify-content: center;
 }
 
 .footer-input-icons {
   margin-left: 16px;
-  position: absolute;
   fill: #ffffff;
-  right: 24px;
-  top: 8px;
-  top: 50%;
-  transform: translateY(-50%);
   transition: stroke 300ms linear;
 }
 /*================ footer/end ============== */
